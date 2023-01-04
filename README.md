@@ -18,10 +18,9 @@ I am a student at FCAI - CU and a programmer capable of producing code quickly a
   
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3ab2wy1911&show_icons=true&locale=en&layout=compact" alt="3ab2wy1911" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ab2wy1911)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3ab2wy1911&show_icons=true&locale=en" alt="3ab2wy1911" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=3ab2wy1911&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=3ab2wy1911)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3ab2wy1911&" alt="3ab2wy1911" /></p>
 
