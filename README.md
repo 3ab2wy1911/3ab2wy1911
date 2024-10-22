@@ -1,30 +1,26 @@
 ### Hi there 👋, **my name is Mohamed Ahmed**
-#### *Student at FCAI - CU | Software Engineer | Junior Android Developer | Instructor at BeCoder Academy.*
-Hello there! 👋 I am a student at the Faculty of Computers and Artificial Intelligence at Cairo University and a passionate developer on a perpetual journey of learning and problem-solving. My diverse experience spans various languages and technologies, and I thrive on hands-on projects that challenge and push my boundaries. Here's a glimpse into my coding adventure:
+## CTO & Training Manager at Go Academy | Lifelong Learner | Problem Solver
 
-## Background
+Hi! I'm **Mohamed Ahmed Abd El-Kawy**, a passionate developer and technology leader, currently serving as the CTO and Training Manager at **Go Academy Platform**, an academy dedicated to teaching kids programming. In this role, I shape the technical strategies and help inspire the next generation of young coders.
 
-- 💻 Proficient in C++, Java, and Python, I enjoy crafting programs that merge functionality with elegance.
-- 🎓 Instructor at BeCoder Academy, sharing knowledge and insights with aspiring developers.
+### 🛠️ My Journey
+- In-depth learning in **AI**, **High-Performance Computing**, **Advanced Data Structures**, and more.
+- Completed **Python Full Stack Development** (ITI) and **Mobile Development** (DEPI).
+- Worked on notable projects such as:
+  - **E-commerce website**
+  - **Doctors Hub app**
+  - **Students Affairs wbsite**
+- Currently building mobile apps using **Java (Android)**, **Kotlin**, or **Flutter**.
 
-## Web Development
+### ⚙️ My Tech Stack
+- **Languages & Frameworks**: C, C++, Java, Spring Boot, Python, Kotlin, Flutter.
+- My background in **C++** and **Java**, combined with my study of **Data Structures**, has sharpened my problem-solving and analytical skills.
 
-In the realm of web development, I've crafted:
+### 👨‍🏫 My Role
+As a **lifelong learner** and mentor, I’m excited to connect with fellow enthusiasts, share knowledge, and explore new horizons in technology.
 
-- 🌐 Student Affairs Website: A comprehensive web platform catering to student needs.
-- 🧮 Calculator, 📝 To-Do List App, ⏰ Clock, and other Applications: Simple yet effective web apps demonstrating my skills in HTML, CSS, JavaScript, and Django.
+Let's build something amazing together!
 
-## Android Development
-
-Currently, I'm immersing myself in the world of Android development, honing my skills with Java and Kotlin to create innovative and user-friendly apps.
-
-## Data Structures and Problem Solving
-
-My coding journey involves delving into the intricacies of data structures, primarily through C, C++, and Java. This exploration has not only deepened my understanding but has also sharpened my analytical and problem-solving prowess.
-
-## Growth and Community
-
-Every project and challenge I undertake is a stepping stone in my continuous growth as a tech problem solver. As I navigate this ever-evolving landscape, I'm not only adapting but also contributing to the tech community.
 
 ## Let's Connect!
 
